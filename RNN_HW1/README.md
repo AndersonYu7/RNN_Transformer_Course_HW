@@ -82,7 +82,9 @@ The most sophisticated model with attention mechanism:
 
 ## Results
 
-The table below shows the performance of each model architecture on the test dataset:
+A detailed analysis of the model performance, including training curves, confusion matrices, and in-depth comparisons between different architectures, is available in the [Report.pdf](Report.pdf) document.
+
+The table below shows the performance summary of each model architecture on the test dataset:
 
 | # | Model Name | Configuration | Accuracy |
 |---|------------|--------------|----------|
@@ -93,6 +95,6 @@ The table below shows the performance of each model architecture on the test dat
 | 5 | BiStackedLSTM | BiStackedLSTMClassifier (num_layers=2) | 0.9994 |
 | 6 | AttentionBiStackedLSTM | AttenationBiStackedLSTMClassifier (num_layers=2) | 0.9993 |
 
-The BiStackedLSTM model achieved the highest accuracy at 0.9994, closely followed by the AttentionBiStackedLSTM model with 0.9993 accuracy.
+The BiStackedLSTM model achieved the highest accuracy at 0.9994, closely followed by the AttentionBiStackedLSTM model with 0.9993 accuracy. For comprehensive evaluation metrics and analysis, please refer to the Report.pdf document.
 
 
