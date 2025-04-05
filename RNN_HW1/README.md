@@ -37,7 +37,7 @@ To train and test the LSTM model, use the `LSTM_Train.py` script with the approp
 python3 LSTM_Train.py --test_model --csv_path /home/aicv/work/AI_Human.csv --log_path runs/lstm_experiment --best_model_path ./models/lstm_model_best.pth --final_model_path ./models/lstm_model.pth --test_model_path ./models/lstm_model.pth --write_result_path ./runs/test/test_results.txt --model_folder ./models --model_name lstm_model
 ```
 
-Alternatively, you can use the [RNN_HW1.ipynb](RNN_HW1.ipynb) notebook which contains the implementation and results for testing and training the LSTMClassifier model with 2 layers (num_layers=2).
+Alternatively, you can use the [RNN_HW1.ipynb](RNN_HW1.ipynb) notebook which contains the implementation and results for testing the BiStackedLSTMClassifier model with 2 layers (num_layers=2).
 
 ### Parameters Explanation:
 
