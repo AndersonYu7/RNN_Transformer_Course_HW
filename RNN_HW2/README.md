@@ -1,4 +1,4 @@
-# RNN_HW1
+# RNN_HW2
 ## Project Summary
 
 This project implements and trains an LSTM (Long Short-Term Memory) neural network model using PyTorch to classify tweets as either related or unrelated to real disasters. The dataset utilized is "Natural Language Processing with Disaster Tweets" from Kaggle [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview), containing tweet samples labeled as disaster-related (1) or not (0).
