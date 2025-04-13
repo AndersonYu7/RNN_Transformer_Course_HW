@@ -56,7 +56,7 @@ Developing multiple predictive models including:
 
 * [GRU_Dropout.ipynb](GRU_Dropout.ipynb)
 
-* [2GRU_Dropout.ipynb] (2GRU_Dropout.ipynb)
+* [2GRU_Dropout.ipynb](2GRU_Dropout.ipynb)
 
 ## Results
 
