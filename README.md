@@ -14,3 +14,9 @@
 - **Details**: See [RNN_HW2/RNN_HW2.pdf](RNN_HW2/RNN_HW2.pdf) for detailed instructions
 - **Additional Information**: Check [RNN_HW2/README.md](RNN_HW2/README.md) for more explanations
 
+### RNN_HW2
+- **Topic**: Bert
+- **Description**: Implementation and application of Bert Model
+- **Details**: See [RNN_HW3/Homework3.pdf](RNN_HW2/Homework3.pdf) for detailed instructions
+- **Additional Information**: Check [RNN_HW3/README.md](RNN_HW3/README.md) for more explanations
+
