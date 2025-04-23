@@ -17,6 +17,6 @@
 ### RNN_HW2
 - **Topic**: Bert
 - **Description**: Implementation and application of Bert Model
-- **Details**: See [RNN_HW3/Homework%203.pdf](RNN_HW3/Homework%203.pdf) for detailed instructions
+- **Details**: See [RNN_HW3/Homework 3.pdf](RNN_HW3/Homework%203.pdf) for detailed instructions
 - **Additional Information**: Check [RNN_HW3/README.md](RNN_HW3/README.md) for more explanations
 
