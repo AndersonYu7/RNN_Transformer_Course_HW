@@ -20,3 +20,8 @@
 - **Details**: See [RNN_HW3/Homework 3.pdf](RNN_HW3/Homework%203.pdf) for detailed instructions
 - **Additional Information**: Check [RNN_HW3/README.md](RNN_HW3/README.md) for more explanations
 
+### RNN_HW4
+- **Topic**: ViT and Swin
+- **Description**: Implementation and application of ViT and Swin Model
+- **Details**: See [RNN_HW4/Homework 4.pdf](RNN_HW4/Homework%204.pdf) for detailed instructions
+- **Additional Information**: Check [RNN_HW4/README.md](RNN_HW4/README.md) for more explanations
