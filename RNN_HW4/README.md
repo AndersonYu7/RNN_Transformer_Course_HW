@@ -44,5 +44,8 @@ The following table summarizes the test set accuracy results under different lea
 | SWIN Transformer | 5e-5          | **98.93**    |
 | SWIN Transformer | 7e-4          | 97.22        |
 
+![Grad-CAM Results](gradcam_grid.png)
+<p align="center"><b>Figure</b>: Grad-CAM visualization across different models and learning rate settings.<br>
+Each row corresponds to a different test image. Columns (from left to right) show: the original input image, ViT (lr=5e-5), ViT (lr=7e-4), SWIN (lr=5e-5), and SWIN (lr=7e-4).</p>
 
 
